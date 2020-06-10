@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-4"></div>
         <div class="col-md-4 text-left">
-            <asp:Button ID="Add1" runat="server" OnClick="Add_Click" Text="Add Person"/>&nbsp;&nbsp;
+            <asp:Button ID="Add1" runat="server" OnClick="Add_Click" Text="Add Employee"/>&nbsp;&nbsp;
             <asp:Button ID="Clear1" runat="server" OnClick="Clear_Click" Text="Clear" />
         </div>
     </div>

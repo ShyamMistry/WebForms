@@ -18,9 +18,7 @@ namespace WebFormsDemo
         {
             ID = id;
             Name = name;
-
+            Phone = phone;
         }
-
-
     }
 }
